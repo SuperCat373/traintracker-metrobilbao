@@ -1,6 +1,6 @@
 # Traintracker Dashboard - Metro Bilbao
 ## 📋 Description
-This project includes a detailed guide on how to make a dashboard that shows the active trains via led indicators on Metro Bilbao's underground network, based on the API of CTB. (Consorcio de Transportes de Bizkaia) See disclaimer at the bottom.
+This project includes a detailed guide on how to make a dashboard that shows the active trains via led indicators on Metro Bilbao's underground network, based on the API of CTB. (Consorcio de Transportes de Bizkaia) **See disclaimer at the bottom.**
 
 ## 🚀 Demo
 
