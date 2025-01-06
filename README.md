@@ -26,9 +26,9 @@ A brief and engaging description of the project. Highlight what the project does
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
 1. Fork the project
-2. Create your feature branch (`git checkout -b feature/branch-name`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/branch-name`)
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
 5. Open a Pull Request
 6. ENJOY!!
 
