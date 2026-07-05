@@ -16,11 +16,6 @@ This project includes a detailed guide on how to make a dashboard that shows the
 
 ## 📦 Instructables [https://www.instructables.com/Traintracker-Dashboard-Metro-Bilbao/](https://www.instructables.com/Traintracker-Dashboard-Metro-Bilbao/)
 
-## 📋 Description
-
-A brief and engaging description of the project. Highlight what the project does and its key features.
-
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
@@ -52,6 +47,6 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 
 ## 📧 Contact
 
-SuperCat373 - [maestro_01_claros@icloud.com](mailto:maestro_01_claros@icloud.com)
+SuperCat373
 
 Instructables Project Link: [https://www.instructables.com/Traintracker-Dashboard-Metro-Bilbao/](https://www.instructables.com/Traintracker-Dashboard-Metro-Bilbao/)
